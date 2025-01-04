@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlai263
 - 👀 I’m interested in front-end
-- 🌱 I’m currently studying at Western University
+- 🌱 I’m recently graduated from Western University in Computer Science
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me justin6001@gmail.com
 - 😄 Pronouns: He/him
